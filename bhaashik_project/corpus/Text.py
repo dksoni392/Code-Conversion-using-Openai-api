@@ -1,0 +1,5 @@
+'\nCreated on Sep 24, 2005\n\nTODO To change the template for this generated file go to\nWindow - Preferences - Java - Code Style - Code Templates\n'
+'\nThe above comment cannot be converted into Python as it is specific to Java code style and preferences.\n'
+'\npackage bhaashik.corpus;\n'
+'\nThe above package statement can be ignored in Python.\n'
+'\nclass Text:\n    def __init__(self):\n        #super()\n        # TODO Auto-generated constructor stub\n        pass\n\n    @staticmethod\n    def main(args):\n        pass\n'
